@@ -1,2 +1,7 @@
 # experimental-dialogue-system
-I was 15 when I started this project. I was trying to invent my own data structure of some kind XD. Putting it here for my future self to compare how much he has grown...
+
+From what I remember, it's completely unusable, even the UI is broken
+
+It was a good learning experience though
+
+Some projects teach you what to do, some teeach you what NOT to do. This was the latter for me...
